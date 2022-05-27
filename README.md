@@ -39,7 +39,6 @@
 <br />
 
 ##  ✍🏼 &nbsp; Some things I've done
----
 ### 🔵 &nbsp; **Education**
 
 #### **Technical University of Havana** Sept 2012 - Apr 2017
