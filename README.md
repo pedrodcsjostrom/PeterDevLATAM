@@ -43,7 +43,7 @@
 ##  ✍🏼 &nbsp; Some things I've done
 ### 🔵 &nbsp; **Education**
 
-#### **Technical University of Havana** Sept 2012 - Apr 2017
+#### **Technical University of Havana** Sept 2012 - Jul 2017
 ***Bachelor in Telecommunications and Electronics***
 - Courses: OOP in C++, C#, Assembler, Relational Databases, Computer Architecture 
 
