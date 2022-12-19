@@ -50,6 +50,11 @@
 
 ### 🔵 &nbsp; **Professional Experience**
 
+#### **Verndale (Web Dev Agency.**	Quito, Ecuador | Jun 2022 – Present				 						                               
+***Front-End Engineer***			         							
+ - Created two demo Apps to compare SSR vs CSR according different use cases, the results were discussed at a Front-End Community event, helping the company to elevate his presence and recruiting capabilities.
+- Develop web applications modules with modern accessibility standards and tools for amwell.com, mcphs.edu, billtrust.com showing code efficiency and excellent soft skills.
+
 #### **RedPlanetTribe LLC.**	Louisville, KY | Feb 2022 – Present				 						                               
 ***Self Employed – Full Stack Engineer***			         							
  - Created Node application API that allows Ecuadorians users do tax declarations in order of minutes by extracting all billing information from SRI (Ecuadorian IRS) XML files
