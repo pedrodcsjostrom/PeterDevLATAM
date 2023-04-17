@@ -1,6 +1,6 @@
 # Hi there, I'm Peter! 👋
 
-## I'm a Sofware Engineer | Frontend Engineer/Developer
+## I'm a Sofware Engineer | Full Stack Engineer/Developer
 
 
 ### Connect with me:
