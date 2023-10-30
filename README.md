@@ -1,6 +1,6 @@
 # Hi there, I'm Peter! 👋
 
-## I'm a Sofware Engineer | Full Stack Engineer/Developer
+## I'm a Sofware Engineer | Full Stack | Cloud
 
 
 ### Connect with me:
@@ -11,7 +11,11 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pedro-diaz-28756a156/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/pedro-diaz-28756a156/#gh-dark-mode-only)
 
-### Languages: Any...
-### Frameworks: Any...
-### Tools: Whatever we need...
-### SoftSkills: Everything a project needs. 
+### Languages: 
+Any...
+### Frameworks: 
+Any...
+### Tools: 
+Whatever we need...
+### SoftSkills: 
+Everything a project needs. 
